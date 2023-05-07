@@ -1,1 +1,22 @@
+<html>
+    <head>
+        <title>Basic_html_part-1</title>
+    </head>
+    <body>
+        <h1>This is Heading H1</h1>
+        <h2>This is Heading H2</h2>
+        <h3>This is Heading H3</h3>
+        <h4>This is Heading H4</h4>
+        <h5>This is Heading H5</h5>
+        <h6>This is Heading H6</h6>
 
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex odit sunt assumenda, perspiciatis nemo commodi distinctio. Quam alias quos veritatis.</p>
+
+        <img src="https://i.ibb.co/W0P80nF/michal-parzuchowski-7-TWRw-Djf-Gew-unsplash.jpg" width="600px" alt="">
+    
+    </br>
+        <a href="#">Click Here</a>
+
+    
+    </body>
+</html>
